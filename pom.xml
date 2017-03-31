@@ -39,6 +39,5 @@
   <sourceDirectory>src/main/java/com/mycompany/newseleniumtest
     </sourceDirectory> 
   <testSourceDirectory>src/main/java/com/mycompany/newseleniumtest</testSourceDirectory> 
-  ...
 </build>
 </project>
